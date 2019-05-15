@@ -4,3 +4,6 @@
 [submodule "tutorial-part-three"]
 	path = tutorial-part-three
 	url = https://github.com/a18wheeler/tutorial-part-three.git
+[submodule "tutorial-part-four"]
+	path = tutorial-part-four
+	url = https://github.com/a18wheeler/tutorial-part-four.git
